@@ -1,0 +1,15 @@
+{
+    "name": "dafiti/payu-sdk",
+    "description": "Payu payment SDK for PHP projects",
+    "authors": [
+        {
+            "name": "Dev",
+            "email": "dev@dafiti.com.ar"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": ["lib"]
+    }
+}
